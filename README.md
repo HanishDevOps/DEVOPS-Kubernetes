@@ -18,18 +18,19 @@ echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" >/etc/apt/sources.li
 apt-get update
 apt install kubeadm=1.20.0-00 kubectl=1.20.0-00 kubelet=1.20.0-00 -y
 
+----------------------------------------------------------------------------------------------------------------------------
 Step2:
 On Master node:
 
 kubeadm init --pod-network-cidr=192.168.0.0/16
-
+-----------------------------------------------------------------------------------------------------------------------------
 Step3:
 
 On Master node:
 mkdir -p $HOME/.kube
 sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
-
+--------------------------------------------------------------------------------------------------------------------------------
 Step4:
 
 On Master node:
