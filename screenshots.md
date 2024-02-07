@@ -13,3 +13,7 @@ On master node server
 On slave node server
 
 <img width="778" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/6ca3ded6-7c5d-4ace-8011-0cec6b5b6a9c">
+
+Our application running on port 31203 of slave node(ubuntu server).
+
+<img width="948" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/95fbe4a0-2175-496c-ba42-6853c439a14d">
