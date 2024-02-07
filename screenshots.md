@@ -17,3 +17,6 @@ On slave node server
 Our application running on port 31203 of slave node(ubuntu server).
 
 <img width="948" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/95fbe4a0-2175-496c-ba42-6853c439a14d">
+
+<img width="957" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/7e8bf482-1c86-46fe-9ec4-83511f1270ed">
+
