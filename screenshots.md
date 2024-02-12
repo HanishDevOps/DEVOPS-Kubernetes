@@ -2,6 +2,11 @@ List of nodes on Kubernetes cluster:
 
 <img width="911" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/dbbcb2c1-4175-4d07-9cd1-81c08ea99ce2">
 
+<img width="932" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/e3142f70-ad1c-440f-bead-321c93211302">
+
+ <img width="946" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/03b7d00c-3313-435f-b19c-127145a1d5c2">
+
+
 On master node server
 
 <img width="952" alt="image" src="https://github.com/HanishDevOps/DEVOPS-Kubernetes/assets/150304178/14f3d3a5-85cf-48e3-8929-0d1f14e24b0a">
